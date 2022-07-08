@@ -1,0 +1,2 @@
+# stockzo
+for internship 
